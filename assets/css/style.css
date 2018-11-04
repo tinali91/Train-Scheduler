@@ -1,0 +1,16 @@
+h1 {
+    color: #3eb489;
+    font-weight: bold;
+}
+
+.card-header {
+    color: #3eb489;
+}
+
+#submitBtn {
+    color: #3eb489;
+}
+
+body {
+    background-image: url(../images/Train\ Station.jpg);
+}
