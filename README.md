@@ -6,4 +6,4 @@ This was an assignment during University of Denver Women's Full Stack Web Develo
 
 # Directions
 
-Users can insert their train name, frequency, and start time and the table will populate the information.
+Users can insert their train name, destination, frequency, and start time and the table will populate the information.
